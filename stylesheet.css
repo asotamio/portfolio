@@ -23,6 +23,7 @@ a {
   background-size: cover;
   color: #81d8d0;
   text-align: center;
+  text-shadow:0 5px 5px black
 }
 
 .top-wrapper h1 {
@@ -47,6 +48,7 @@ a {
 
 .signup {
   background-color: #d93177;
+  margin-right: 10px;
 }
 
 .facebook {
