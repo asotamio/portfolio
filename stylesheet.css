@@ -46,7 +46,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
 }
 
 .facebook {
