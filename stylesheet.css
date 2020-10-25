@@ -142,7 +142,7 @@ header {
 }
 
 .lesson-icon p {
-  position: relative;
+  position: absolute;
   top: 37%;
   width: 100%;
   color: white;
